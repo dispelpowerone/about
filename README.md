@@ -1,2 +1,2 @@
-# about
-A set of stories about my work experience
+# About
+A set of project descriptions and stories about my work experience
