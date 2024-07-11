@@ -3,7 +3,7 @@
 ## Introduction
 
 The project started as a small MVP and grew up into recommendations feed
-provider for the company's primary web page.
+provider for the company's primary web page. See [here](https://mail.ru).
 The idea was to design and implement a service that provides a list of news 
 and blog posts for users based on available user data using ML-based ranking.
 
