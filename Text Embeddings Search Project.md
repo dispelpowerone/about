@@ -31,7 +31,7 @@ and results aggregation due to dataset sharding.
 * **etcd**: Used etcd for service discovery to ensure efficient coordination
 between proxy instances and search services.
 
-## The team
+## Team
 
 The project team consisted of approximately 5-7 members.
 Two developers, including myself, focused on the microservices implementation.
