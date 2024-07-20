@@ -1,4 +1,4 @@
-# Automation of capacity control service
+# Capacity control workflow automation
 
 A workflow for one of our capacity control systems was implemented as
 a disjoint set of AWS components some of which were created and configured
